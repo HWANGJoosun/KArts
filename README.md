@@ -1,2 +1,2 @@
-# dmd
-digital media design
+# KArts Interaction Design
+IxMD
