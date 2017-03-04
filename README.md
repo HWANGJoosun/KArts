@@ -1,2 +1,2 @@
 # KArts Interaction Design
-IxMD
+IxMD (2017 개편됨)
